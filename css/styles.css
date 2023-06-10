@@ -1,3 +1,8 @@
+/* CUSTOM PROPS */
+:root {
+  --primary: #EA625C
+}
+
 /* GLOBAL */
 html {
   box-sizing: border-box;
